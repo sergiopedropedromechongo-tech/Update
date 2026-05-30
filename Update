@@ -1,8 +1,8 @@
 {
   "showDialog": true,
-  "appVersionCode": 1,
+  "appVersionCode": 2,
   "messageText": "O app sera desbloqueado pelo ADM BIG NEYZ.",
-  "updateButtonText": "Entrar no Privado do adm",
+  "updateButtonText": "Entrar",
   "updateButtonLink": "https://chat.whatsapp.com/CjEs2DLAj9DIdVz6yOpre7",
   "updateButtonGradientStartColor": "#1E88E5",
   "updateButtonGradientEndColor": "#64B5F6",
